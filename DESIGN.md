@@ -28,10 +28,10 @@ Modern applications often rely on a single LLM provider, making them vulnerable 
 - Security
 ## Architecture
 
-![Architecture](ARCHITECTURE.png)
+![Architecture](assets/ARCHITECTURE.png)
 
 ## Request LifeCycle
-![RequestLifeCycle](FLOW.png)
+![RequestLifeCycle](assets/FLOW.png)
 
 ## Core Components
    - Authentication
