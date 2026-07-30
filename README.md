@@ -104,5 +104,5 @@ MIT
 
 **Anagha R S** — M.Tech AI/CS @ CUSAT | Ex-Research Intern @ IIT Madras
 
-[GitHub](https://github.com/anahaaaa) ·
+[GitHub](https://github.com/anahaaaa)
 [LinkedIn](https://linkedin.com/in/anagha-r-285872370)
